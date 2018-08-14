@@ -38,3 +38,6 @@ RegEx came about in the 1950's and 1960's in various forms. Among the first appe
 Regular expressions are an extremely powerful way to search through strings and blocks of text for specific patterns. They can be used for data validation, searching, mass file renaming, and finding records in a database. Use them carefully. They are like a surgeon's scalpel: able to do a lot of harm or good, depending on how skillfully they are wielded.
 
 <p data-visibility='hidden'>PHRG RegEx - What Is A Pattern?</p>
+
+## Does this need an update?
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-regex-what-is-a-pattern/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-regex-what-is-a-pattern/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
